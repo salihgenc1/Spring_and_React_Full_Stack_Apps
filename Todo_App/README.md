@@ -1,7 +1,13 @@
 Todo_App
 
-![Main page with empty todo list](https://github.com/salihgenc1/Spring_and_React_Fullstack_Apps/assets/99644395/720d7f29-08e8-4915-b17c-c71a01ce21db)
-![Add new todo page with inputs](https://github.com/salihgenc1/Spring_and_React_Fullstack_Apps/assets/99644395/db190417-1eda-4a5f-943a-6d1c26bc00bc)
-![Update todo page with changed inputs](https://github.com/salihgenc1/Spring_and_React_Fullstack_Apps/assets/99644395/19d31f35-67bb-447d-b942-aad7d240f731)
-![Uploading Delete confirm modal.png…]()
-![Main page with filter](https://github.com/salihgenc1/Spring_and_React_Fullstack_Apps/assets/99644395/4cef9d96-f85c-4105-88d7-515e9c523975)
+![Main_page_with_empty_todo_list](todo_app_images/todo_app_ss_1.png)  
+
+![Main_page_with_todo_list](todo_app_images/todo_app_ss_2.png)  
+
+![Add_todo_page](todo_app_images/todo_app_ss_3.png)  
+
+![Update_todo_page](todo_app_images/todo_app_ss_4.png)  
+
+![Delete_confirm_modal](todo_app_images/todo_app_ss_5.png)
+
+![Main_page_with_filter](todo_app_images/todo_app_ss_6.png)
