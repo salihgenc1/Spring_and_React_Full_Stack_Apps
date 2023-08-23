@@ -67,7 +67,7 @@ const addTodo = createAsyncThunk(
             console.log(response.data)
         }
         catch(error){
-            thunkAPI.dispatch(giveAlertMessage(['An error occured while adding this todo: '+ error, MessageType.error, true]))
+            thunkAPI.dispatch(giveAlertMessage(['An error occurred while adding this todo: '+ error, MessageType.error, true]))
         }
         finally {
             thunkAPI.dispatch(giveAlertMessage([`"${todo.title}" todo added successfully`, MessageType.success, true]))
@@ -83,7 +83,7 @@ const updateTodo = createAsyncThunk(
             console.log(response.data)
         }
         catch(error){
-            thunkAPI.dispatch(giveAlertMessage(['An error occured while updating this todo: '+ error, MessageType.error, true]))
+            thunkAPI.dispatch(giveAlertMessage(['An error occurred while updating this todo: '+ error, MessageType.error, true]))
         }
         finally{
             thunkAPI.dispatch(giveAlertMessage([`"${todo.title}" todo updated successfully`, MessageType.success, true]))

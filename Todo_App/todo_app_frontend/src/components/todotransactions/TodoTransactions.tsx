@@ -24,7 +24,7 @@ const TodoTransactions = () => {
     }
 
     return(
-        <div >
+        <div>
             <Header/>
             <form onSubmit ={handleSubmit}  style={{minWidth: 400, width:'60%', margin:'auto',}}>
                 <Grid component={Paper} style={{paddingBottom:40,}} direction="row" container rowSpacing={3} justifyContent="center" alignItems="stretch">

@@ -28,7 +28,6 @@ function App() {
       },
 
       typography: {
-
           fontFamily: 'Rubik',
       }
 
