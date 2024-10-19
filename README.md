@@ -1,1 +1,1 @@
-# Spring_and_React_Fullstack_Apps
+# Spring_and_React_Full_Stack_Apps
